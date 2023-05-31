@@ -1,5 +1,6 @@
 baseUrl = "https://thddbptnsndshs.github.io/"
 languageCode = "en-us"
+draft = false
 title = "Sasha Shikunova"
 theme = "anubis"
 paginate = 3 
