@@ -1,0 +1,4 @@
+[submodule "public/academic_site"]
+	path = public/academic_site
+	url = git@github.com:thddbptnsndshs/academic_site.git
+	branch = main
