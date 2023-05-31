@@ -4,6 +4,7 @@ title = "Sasha Shikunova"
 theme = "anubis"
 paginate = 3 
 enableEmoji = true
+assetDir = "static"
 
 disqusShortname = ""
 googleAnalytics = ""
