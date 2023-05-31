@@ -1,4 +1,4 @@
-baseUrl = "https://thddbptnsndshs.github.io/"
+baseUrl = "https://thddbptnsndshs.github.io/academic_site"
 languageCode = "en-us"
 draft = false
 title = "Sasha Shikunova"
@@ -53,7 +53,7 @@ weight = 1
 [[menu.main]]
 name = "Research"
 identifier = "research"
-url = "/academic_site/research/"
+url = "research/"
 weight = 2
 
 [[menu.main]]
