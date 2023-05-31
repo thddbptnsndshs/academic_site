@@ -34,9 +34,9 @@
     &lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;&lt;p&gt;I grew up in &lt;a href=&#34;http://chernogolovka.ru/home/&#34;&gt;Chernogolovka&lt;/a&gt;, the center of the world.&lt;/p&gt;
-&lt;img src=&#34;images/chernogolovka.jpeg&#34; alt= “” width=&#34;600&#34;&gt;
+&lt;img src=&#34;static/images/chernogolovka.jpeg&#34; alt= “” width=&#34;600&#34;&gt;
 &lt;p&gt;The only thing about me that hasn&amp;rsquo;t changed since 2006 is that I like drawing, painting, playing chess and going outside.&lt;/p&gt;
-&lt;img src=&#34;images/drawing.jpeg&#34; alt= “” width=&#34;600&#34;&gt;</description>
+&lt;img src=&#34;static/images/drawing.jpeg&#34; alt= “” width=&#34;600&#34;&gt;</description>
     </item>
     
     <item>
