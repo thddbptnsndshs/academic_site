@@ -47,7 +47,7 @@ url = "https://github.com/thddbptnsndshs"
 [[menu.main]]
 identifier = "about"
 name = "About"
-url = "academic_site/about/"
+url = "/about/"
 weight = 1
 
 [[menu.main]]
