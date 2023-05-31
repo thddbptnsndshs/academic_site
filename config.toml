@@ -1,0 +1,69 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Sasha Shikunova"
+theme = "anubis"
+paginate = 3 
+enableEmoji = true
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[author]
+name = "Sasha Shikunova"
+
+[params]
+author = "Sasha Shikunova"
+description = "description"
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "auto"
+readMore = false
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = false
+mathjax = false
+
+# Graphcomment support
+graphcommentId = ""
+
+# utteranc.es support
+utterancesRepo = ""  # mandatory
+utterancesTheme = "" # optional
+utterancesIssue = "" # optional
+utterancesLabel = "" # optional
+
+[[params.social]]
+id = "telegram"
+url = "https://t.me/thnlgrlivrlvdwsbrnwthrssnhrys"
+name = "thnlgrlivrlvdwsbrnwthrssnhrys"
+
+[[params.social]]
+id = "github"
+url = "https://github.com/thddbptnsndshs"
+
+[menu]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Research"
+identifier = "research"
+url = "/research/"
+weight = 2
+
+[[menu.main]]
+name = "Publications"
+identifier = "publications"
+url = "/publications/"
+weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
