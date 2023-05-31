@@ -47,19 +47,19 @@ url = "https://github.com/thddbptnsndshs"
 [[menu.main]]
 identifier = "about"
 name = "About"
-url = "about/"
+url = "academic_site/about/"
 weight = 1
 
 [[menu.main]]
 name = "Research"
 identifier = "research"
-url = "research/"
+url = "academic_site/research/"
 weight = 2
 
 [[menu.main]]
 name = "Publications"
 identifier = "publications"
-url = "publications/"
+url = "academic_site/publications/"
 weight = 3
 
 [taxonomies]
