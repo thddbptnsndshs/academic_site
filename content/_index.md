@@ -8,3 +8,5 @@ I am Alexandra Shikunova, although I prefer Sasha. I am currently a 3rd year bac
   <center><img src="/images/pfp.jpg" alt= “” width="500">
   <figcaption>Saint Petersburg on a sunny day makes one smile</figcaption></center>
 </figure>
+
+[:pager:](https://raw.githubusercontent.com/thddbptnsndshs/curriculae-vitae/master/ENG_academic.pdf) curriculum vitae 
