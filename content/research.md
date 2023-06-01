@@ -9,11 +9,11 @@ I do a lot of different projects, all of which are pretty small but with a chanc
 
 ## Morphophonological alternations in Uralic languages
 
-Anything that happens at morpheme boundaries draws my interest, and since I am exposed to a lot of understudied Uralic languages, I study them with a CVCV lens. I have looked at glide insertion in Moksha, which occurs in between /u i/-final bases and vowel-initial suffixes and is superficially dependent on syllable count. Also, I have worked on modeling the schwa-zero alternations in Kazym Khanty, to no publishable avail so far.
+Anything that happens at morpheme boundaries draws my interest, and since I am exposed to some underresearched Uralic languages, I study them with a CVCV lens. I have looked at glide insertion in Moksha, which occurs in between /u i/-final bases and vowel-initial suffixes and is superficially dependent on syllable count. Also, I have worked on modeling the schwa-zero alternations in Kazym Khanty, to no publishable avail so far.
 
 ***Work on this topic***
 
-[:page_facing_up:](moksha_cvs_paper.pdf) A case for stress as empty CVs: glide epenthesis in Moksha
+[:page_facing_up:](moksha_cvs_paper.pdf) A case for stress as empty CVs: glide epenthesis in Moksha [Ms.]
 
 ## Syntax of non-finite modal constructions in Uralic languages
 
@@ -23,7 +23,7 @@ Constructions that look half verbal and half nominal often make curious puzzles.
 
 [:page_facing_up:](shikunova_moksha_jul_final.pdf) Case and agreement puzzle in the Moksha debitive
 
-in *Journal of Uralic Linguistics*
+to appear in *Journal of Uralic Linguistics*
 
 [:page_facing_up:](mermaids_paper.pdf) Mermaid construction: a case of Kazym Khanty
 
@@ -37,7 +37,7 @@ I believe that no existing analysis of the Russian comparative is completely sat
 
 [:page_facing_up:](comp_paper_v2.pdf) More than a small clause: Russian adverbial comparatives
 
-in *Proceedings of ConSOLE XXXI* (in prep)
+prepared for *Proceedings of ConSOLE XXXI* 
 
 ## Russian stress shift
 
