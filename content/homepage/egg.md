@@ -1,7 +1,7 @@
 +++
 author = "Sasha Shikunova"
 title = "the EGGsperience"
-date = "2023-05-23"
+date = "2023-08-08"
 tags = [
     "teaching",
 ]
