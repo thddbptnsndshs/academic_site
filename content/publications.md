@@ -44,6 +44,10 @@ in *Proceedings of ConSOLE XXXI* (in prep)
 
 ### 2023
 
+[:love_letter:](wossp_khanty_abstract.pdf) **WoSSP2023** 
+
+The three faces of Kazym Khanty schwa
+
 [:pushpin:](glottalisation_rfp_slides.pdf)[:love_letter:](glottalization_abstract.pdf) **RFP2023** 
 
 No derivation levels needed: an alternative take on glottalisation of vowel-initial words in Slavic 
