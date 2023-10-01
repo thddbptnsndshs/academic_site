@@ -44,7 +44,15 @@ in *Proceedings of ConSOLE XXXI* (in prep)
 
 ### 2023
 
-[:love_letter:](wossp_khanty_abstract.pdf) **WoSSP2023** 
+[:love_letter:](FN_vowel_alternations_abstract.pdf) **20th Conference on Typology and Grammar for Young Scholars**
+
+Forest Nenets vowel alternations and licensing of final nuclei (with Pavel Belov, HSE)
+
+[:love_letter:](L2_russian_in_FN_abstract.pdf) **20th Conference on Typology and Grammar for Young Scholars**
+
+Laryngeal contrast in L2 Russian of Forest Nenets speakers
+
+[:pushpin:](khanty_schwa_wossp_slides.pdf)[:love_letter:](wossp_khanty_abstract.pdf) **WoSSP2023** 
 
 The three faces of Kazym Khanty schwa
 
