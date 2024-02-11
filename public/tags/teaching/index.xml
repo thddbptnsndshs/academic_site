@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepages on Sasha Shikunova</title>
-    <link>/homepage/</link>
-    <description>Sasha Shikunova (Homepages)</description>
+    <title>teaching on Sasha Shikunova</title>
+    <link>/tags/teaching/</link>
+    <description>Sasha Shikunova (teaching)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/homepage/egg/</guid>
       <description>&lt;p&gt;i taught two advanced phonology courses in two weeks with no prior experience in teaching linguistics&lt;/p&gt;
 &lt;p&gt;it was the biggest challenge on my academic way so far. i can&amp;rsquo;t believe i have completed it. teaching really does teach the teacher, doesn&amp;rsquo;t it. i want to study and be a student so much more now! please find &lt;a href=&#34;https://github.com/thddbptnsndshs/EGG_stress_in_cvcv&#34;&gt;the course on stress&lt;/a&gt; and &lt;a href=&#34;https://github.com/thddbptnsndshs/EGG_stress_in_cvcv&#34;&gt;the course on Uralic phonology&lt;/a&gt; on github.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>i can&#39;t believe i made a personal website</title>
-      <link>/homepage/hi/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/homepage/hi/</guid>
-      <description>&lt;p&gt;it was not hard at all&lt;/p&gt;
-&lt;p&gt;this might become the what&amp;rsquo;s new section, or i might cut it later&lt;/p&gt;</description>
     </item>
     
   </channel>
