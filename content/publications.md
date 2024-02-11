@@ -8,21 +8,31 @@ author: "Sasha Shikunova"
 
 ## Papers
 
-### to appear
+### to be published
+
+[:page_facing_up:](https://ling.auf.net/lingbuzz/007524) Quality-conditioned stress as length: glide epenthesis in Moksha
+
+revised \& resubmitted to *Radical: A Journal of Phonology*
+
+### 2023
+
+[:page_facing_up:](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf) More than a small clause: Russian adverbial comparatives 
+
+in *Proceedings of ConSOLE XXXI*, P. 134–150
 
 [:page_facing_up:](shikunova_moksha_jul_final.pdf) Case and agreement puzzle in the Moksha debitive
 
-in *Journal of Uralic Linguistics*
+in *Journal of Uralic Linguistics*, Vol. 2. No. 2. P. 194–213
 
 ### 2022
 
 [:page_facing_up:](mermaids_paper.pdf) Mermaid construction: a case of Kazym Khanty
 
-in *Proceedings of ConSOLE XXX*, P. 89–101
+in *Proceedings of ConSOLE XXX*, P. 89--101
 
 [:page_facing_up:](tmp_idioms.pdf) Idioms, NP position and control: Evidence from Russian
 
-in *Typology of Morphosyntactic Parameters 2022*. Vol. 5. No. 1. P. 91-106 (with Pavel Rudnev)
+in *Typology of Morphosyntactic Parameters 2022*. Vol. 5. No. 1. P. 91--106 (with Pavel Rudnev)
 
 ## Manuscripts
 
@@ -39,6 +49,14 @@ in *Proceedings of ConSOLE XXXI* (in prep)
 [:page_facing_up:](control_idioms.pdf) Idioms and Obligatory Control in Russian: an Experimental Investigation
 
 2nd year term paper
+
+## Invited talks
+
+### 2023
+
+[:pushpin:](atelier_schwa_slides.pdf) **Atelier de phonologie (SFL, CNRS \& Université Paris 8)**
+
+The three faces of Kazym Khanty schwa
 
 ## Conference talks
 
