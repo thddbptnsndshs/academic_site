@@ -36,11 +36,9 @@ in *Typology of Morphosyntactic Parameters 2022*. Vol. 5. No. 1. P. 91--106 (wit
 
 ## Manuscripts
 
-[:page_facing_up:](moksha_cvs_paper.pdf) A case for stress as empty CVs: glide epenthesis in Moksha
+[:page_facing_up:](moksha_cvs_thesis.pdf) Autosegmental representations behind quality-sensitive stress
 
-:page_facing_up: Stress shift in Russian prepositional phrases: A strict CV approach
-
-in *Advances in formal Slavic Linguistics 2022* with Daniar Kasenov, HSE (submitted)
+BA thesis, HSE University
 
 [:page_facing_up:](comp_paper_v2.pdf) More than a small clause: Russian adverbial comparatives
 
@@ -59,6 +57,16 @@ in *Proceedings of ConSOLE XXXI* (in prep)
 The three faces of Kazym Khanty schwa
 
 ## Conference talks
+
+### 2024
+
+[:pushpin:](fnz_vowels_slides.pdf)[:love_letter:](fnz_vowels_abstract.pdf) **RFP2024** 
+
+Positional weakness versus lack of prominence: Forest Nenets vowel alternations
+
+[:pushpin:](rus_reduction_poster.pdf)[:love_letter:](rus_reduction_abstract.pdf) **RFP2024** 
+
+Second thought on the form and the substance of Russian vowel reduction (with Daniar Kasenov, HSE)
 
 ### 2023
 
