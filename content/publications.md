@@ -8,11 +8,11 @@ author: "Sasha Shikunova"
 
 ## Papers
 
-### to be published
+### 2024
 
-[:page_facing_up:](https://ling.auf.net/lingbuzz/007524) Quality-conditioned stress as length: glide epenthesis in Moksha
+[:page_facing_up:](https://radical.cnrs.fr/shikunova-quality-conditioned-stress-as-length-glide-epenthesis-in-moksha/) Quality-conditioned stress as length: glide epenthesis in Moksha
 
-revised \& resubmitted to *Radical: A Journal of Phonology*
+*Radical: A Journal of Phonology*, 6, 31--73
 
 ### 2023
 
@@ -49,6 +49,12 @@ in *Proceedings of ConSOLE XXXI* (in prep)
 2nd year term paper
 
 ## Invited talks
+
+### 2024
+
+[:pushpin:](atelier_monosyllabic_shortening.pdf) **Atelier de phonologie (SFL, CNRS \& Université Paris 8)**
+
+Forest Nenets monosyllabic shortening
 
 ### 2023
 
