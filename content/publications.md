@@ -64,6 +64,12 @@ The three faces of Kazym Khanty schwa
 
 ## Conference talks
 
+### 2025
+
+[:pushpin:](fnz_ocp_overwrite_slides)[:love_letter:](fnz_ocp_overwrite_abstract.pdf) **OCP22**
+
+Forest Nenets monosyllabic shortening as overwrite 
+
 ### 2024
 
 [:pushpin:](fnz_vowels_slides.pdf)[:love_letter:](fnz_vowels_abstract.pdf) **RFP2024** 
